@@ -1,5 +1,6 @@
 # Restaurant_Hours
 Created By Jeffrey Woodbury
+Written in python
 February 2022
 
 This script is written to find compatible hours for a person to eat at a given list of restaurants
@@ -12,3 +13,5 @@ For example, if a restaurant is open every day of the week, then that is indicat
 
 Lastly, this assumes that nobody wants to be looking for a restaraunt that is open after 6am. At that point, it's the next day. 
 For example, if you're looking for a place open Saturday night at 12:30am (technically Sunday), both the restaurant and you will consider that as Saturday still. 
+
+Given more time, I would enjoy creating a front-end view for this application
